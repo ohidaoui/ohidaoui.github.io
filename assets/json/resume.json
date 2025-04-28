@@ -67,15 +67,15 @@
       "institution": "Euromed University of Fes (UEMF)",
       "location": "Fes, Morocco",
       "url": "",
-      "area": "Diplôme d'ingénieur (Eq. to MEng)",
-      "studyType": "Artificial Intelligence",
+      "area": "Artificial Intelligence",
+      "studyType": "Diplôme d'ingénieur (Eq. to MEng)",
       "startDate": "2019-09-01",
       "endDate": "2024-07-15",
       "score": "",
       "courses": ["Applied Mathematics, Computer Science, Artificial Intelligence"]
     }
   ],
-  "skills & Technologies": [
+  "skills": [
     {
       "name": "Programming",
       "level": "Advanced",
