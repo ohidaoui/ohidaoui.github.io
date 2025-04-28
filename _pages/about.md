@@ -34,8 +34,8 @@ social: true # includes social icons at the bottom of the page
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-Hi, and welcome! I'm currently pursuing a Master's in [**AI for Science**](https://ai.aims.ac.za/) at the **African Institute for Mathematical Sciences (AIMS)** and the **University of Cape Town (UCT)**, kindly supported by a **Google DeepMind Scholarship**. Prior to this, I earned an engineering diploma in AI from the **Euromed University of Fes (UEMF)**.
+Hi, and welcome! I'm currently pursuing a Master's in [AI for Science](https://ai.aims.ac.za/) at the **African Institute for Mathematical Sciences (AIMS)** and the **University of Cape Town (UCT)**, kindly supported by a **Google DeepMind Scholarship**. Prior to this, I earned an engineering diploma in AI from the **Euromed University of Fes (UEMF)**.
 
 I'm especially interested in reinforcement learning, generative models, and efficient deep learning. My current work focuses on **distributional multi-agent reinforcement learning**.
 
-Beyond fundamental AI research, I’m also interested in **AI for Climate** and have previously worked on the reconstruction global oceanic dissolved oxygen levels and analyzing deoxygenation.
+Beyond fundamental AI research, I'm interested in **AI for Climate** and have previously worked on the reconstruction of global oceanic dissolved oxygen levels and the analysis of deoxygenation.
